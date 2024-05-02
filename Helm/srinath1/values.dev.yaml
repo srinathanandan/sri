@@ -1,0 +1,10 @@
+app name: srinathmyhelmapp
+image : 
+name : srinathfirstrg01.azurecr.io
+tag : srinath
+spec : 
+type : LoadBalancer 
+ports :
+port : 80
+env : 
+name : Dev
